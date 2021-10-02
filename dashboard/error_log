@@ -1,0 +1,113 @@
+[04-Jul-2021 14:04:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 14:09:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 14:09:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 14:12:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 14:13:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 14:16:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 15:00:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 15:05:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 15:08:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 15:08:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 15:08:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 15:10:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 15:18:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 15:24:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 15:25:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 15:26:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 15:26:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 15:28:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 15:29:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 15:29:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 15:30:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 15:30:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 15:30:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 15:32:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 15:32:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 15:32:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 15:32:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/tecnoala/contacelprogreso.online/dashboard/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/tecnoala/contacelprogreso.online/dashboard/index.php on line 12
+[04-Jul-2021 16:19:42 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/tecnoala/contacelprogreso.online/dashboard/insert.php on line 24
+[04-Jul-2021 16:20:03 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/tecnoala/contacelprogreso.online/dashboard/insert.php on line 24
+[04-Jul-2021 16:20:54 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/tecnoala/contacelprogreso.online/dashboard/insert.php on line 24
+[04-Jul-2021 16:22:03 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/tecnoala/contacelprogreso.online/dashboard/insert.php on line 24
+[04-Jul-2021 16:38:25 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/tecnoala/contacelprogreso.online/dashboard/insert.php on line 24
