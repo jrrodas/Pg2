@@ -136,9 +136,9 @@ button:hover {
   transition: all 0.4s;
 
   background: #000000;
-  background: -webkit-linear-gradient(left, #21d4fd, #b721ff);
+  background: -webkit-linear-gradient(left, #21d4fd, #09000e);
   background: -o-linear-gradient(left, #21d4fd, #b721ff);
-  background: -moz-linear-gradient(left, #21d4fd, #b721ff);
+  background: -moz-linear-gradient(left, #21d4fd, #09000e);
   background: linear-gradient(left, #21d4fd, #b721ff);
 }
 

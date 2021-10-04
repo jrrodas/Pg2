@@ -18,7 +18,7 @@ if($_SESSION["s_usuario"] === null){
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>SB Admin 2 - Dashboard</title>
+  <title>Datamidh Morazán</title>
 
   <!-- Custom fonts for this template-->
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -45,9 +45,9 @@ if($_SESSION["s_usuario"] === null){
       <!-- Sidebar - Brand -->
       <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.php">
         <div class="sidebar-brand-icon rotate-n-15">
-          <i class="fas fa-laugh-wink"></i>
+         <!-- <i class="fas fa-laugh-wink"></i>-->
         </div>
-        <div class="sidebar-brand-text mx-3">SB Admin <sup>2</sup></div>
+        <div class="sidebar-brand-text mx-3">Datamidh <sup>MORAZÁN</sup></div>
       </a>
 
       <!-- Divider -->
@@ -57,7 +57,7 @@ if($_SESSION["s_usuario"] === null){
       <li class="nav-item active">
         <a class="nav-link" href="index.php">
           <i class="fas fa-fw fa-tachometer-alt"></i>
-          <span>Dashboard</span></a>
+          <span>Inicio</span></a>
       </li>
 
       <!-- Divider -->
@@ -72,13 +72,13 @@ if($_SESSION["s_usuario"] === null){
       <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
           <i class="fas fa-fw fa-cog"></i>
-          <span>Components</span>
+          <span>ORGANIZACIÓN POLÍTICA ADMINISTRATIVA</span>
         </a>
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
-            <h6 class="collapse-header">Custom Components:</h6>
-            <a class="collapse-item" href="buttons.php">Buttons</a>
-            <a class="collapse-item" href="cards.php">Cards</a>
+            <h6 class="collapse-header">Listado de Comunidades:</h6>
+            <a class="collapse-item" href="comunidad1/comunidad1.php">Comunidad 1</a>
+            <a class="collapse-item" href="comunidad2/comunidad.php">Comunidad 2</a>
           </div>
         </div>
       </li>

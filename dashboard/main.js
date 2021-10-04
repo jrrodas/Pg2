@@ -44,14 +44,14 @@ $(document).on("click", ".btnEditar", function(){
     vivienda = parseInt(fila.find('td:eq(3)').text());
     servicios = parseInt(fila.find('td:eq(4)').text());
     instituciones = parseInt(fila.find('td:eq(5)').text());
-    migracion = parseInt(fila.find('td:eq(6)').text());
+    periodo = parseInt(fila.find('td:eq(6)').text());
     
     $("#autoridades").val(autoridades);
     $("#poblacion").val(poblacion);
     $("#vivienda").val(vivienda);
     $("#servicios").val(servicios);
     $("#instituciones").val(instituciones);
-    $("#migracion").val(migracion);
+    $("#periodo").val(periodo);
     opcion = 2; //editar
     
     $(".modal-header").css("background-color", "#4e73df");
@@ -87,12 +87,12 @@ $("#formPersonas").submit(function(e){
     vivienda = $.trim($("#vivienda").val());    
     servicios = $.trim($("#servicios").val());  
     instituciones = $.trim($("#instituciones").val());  
-    migracion = $.trim($("#migracion").val());  
+    periodo = $.trim($("#periodo").val());  
     $.ajax({
         url: "bd/crud.php",
         type: "POST",
         dataType: "json",
-        data: {autoridades:autoridades, poblacion:poblacion, vivienda:vivienda, servicios:servicios, instituciones:instituciones, migracion:migracion, id:id, opcion:opcion},
+        data: {autoridades:autoridades, poblacion:poblacion, vivienda:vivienda, servicios:servicios, instituciones:instituciones, periodo:periodo, id:id, opcion:opcion},
         success: function(data){  
             console.log(data);
             id = data[0].id;            
@@ -101,9 +101,9 @@ $("#formPersonas").submit(function(e){
             vivienda = data[0].vivienda;
             servicios = data[0].servicios;
             instituciones = data[0].instituciones;
-            migracion = data[0].migracion;
-            if(opcion == 1){tablaPersonas.row.add([id,autoridades,poblacion,vivienda,servicios,instituciones,migracion]).draw();}
-            else{tablaPersonas.row(fila).data([id,autoridades,poblacion,vivienda,servicios,instituciones,migracion]).draw();}            
+            periodo = data[0].periodo;
+            if(opcion == 1){tablaPersonas.row.add([id,autoridades,poblacion,vivienda,servicios,instituciones,periodo]).draw();}
+            else{tablaPersonas.row(fila).data([id,autoridades,poblacion,vivienda,servicios,instituciones,periodo]).draw();}            
         }        
     });
     $("#modalCRUD").modal("hide");    
