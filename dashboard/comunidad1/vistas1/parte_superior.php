@@ -72,15 +72,16 @@ if($_SESSION["s_usuario"] === null){
       <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
           <i class="fas fa-fw fa-cog"></i>
-          <span>ORGANIZACIÓN POLÍTICA ADMINISTRATIVA</span>
+          <span>COMUNIDAD 1</span>
         </a>
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Listado de Comunidades:</h6>
-            <a class="collapse-item" href="comunidad1.php">Autoridades</a>
+            <a class="collapse-item" href="../comunidad1/comunidad1.php">Autoridades</a>
             <a class="collapse-item" href="../poblacion/poblacion.php">Población</a>
             <a class="collapse-item" href="../vivienda/vivienda.php">Vivienda</a>
-            <a class="collapse-item" href="comunidad2.php">Establecimientos Comerciales</a>
+            <a class="collapse-item" href="../servicios/servicios.php">Servicios</a>
+            <a class="collapse-item" href="../establecimientos/establecimientos.php">Establecimientos Comerciales</a>
             <a class="collapse-item" href="comunidad2.php">Ingreso Economico</a>
           </div>
         </div>
@@ -143,8 +144,7 @@ if($_SESSION["s_usuario"] === null){
             <li class="nav-item dropdown no-arrow mx-1">
               <a class="nav-link dropdown-toggle" href="#" id="alertsDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 <i class="fas fa-bell fa-fw"></i>
-                <!-- Counter - Alerts -->
-                <span class="badge badge-danger badge-counter">3+</span>
+               
               </a>
               <!-- Dropdown - Alerts -->
               <div class="dropdown-list dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="alertsDropdown">
@@ -192,8 +192,7 @@ if($_SESSION["s_usuario"] === null){
             <li class="nav-item dropdown no-arrow mx-1">
               <a class="nav-link dropdown-toggle" href="#" id="messagesDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 <i class="fas fa-envelope fa-fw"></i>
-                <!-- Counter - Messages -->
-                <span class="badge badge-danger badge-counter">7</span>
+                <span>Inicio</span>
               </a>
               <!-- Dropdown - Messages -->
               <div class="dropdown-list dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="messagesDropdown">

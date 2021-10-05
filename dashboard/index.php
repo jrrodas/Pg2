@@ -2,7 +2,7 @@
 
 <!--INICIO del cont principal-->
 <div class="container" align="center">
-    <h1>Agenda Contactos El Progreso</h1>
+    <h1>Datamidh Morazán, El Progreso</h1>
     
     
     

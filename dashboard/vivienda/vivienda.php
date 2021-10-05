@@ -1,4 +1,4 @@
-<?php require_once "../vivienda/vistas1/parte_superior.php"?>
+<?php require_once "../comunidad1/vistas1/parte_superior.php"?>
 
 
     
@@ -103,7 +103,7 @@
                 <td><?php echo $fila['terraza']; ?></td>
 
                  <td><?php echo $fila['periodo']; ?></td>
-                <td><a href="update_viv.php?id=<?php echo $fila['id']; ?>"  class="btn__update" >Editar</a></td>
+                <td><a href="update_vivie.php?id=<?php echo $fila['id']; ?>"  class="btn__update" >Editar</a></td>
                 <td><a href="delete_viv.php?id=<?php echo $fila['id']; ?>" class="btn__delete">Eliminar</a></td>
             </tr>
         <?php endforeach ?>
@@ -115,4 +115,4 @@
 </body>
 </html>
 
-<?php require_once "../vivienda/vistas1/parte_inferior.php"?>
+<?php require_once "../comunidad1/vistas1/parte_inferior.php"?>

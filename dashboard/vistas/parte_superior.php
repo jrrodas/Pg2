@@ -78,7 +78,7 @@ if($_SESSION["s_usuario"] === null){
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Listado de Comunidades:</h6>
             <a class="collapse-item" href="comunidad1/comunidad1.php">Comunidad 1</a>
-            <a class="collapse-item" href="comunidad2/comunidad.php">Comunidad 2</a>
+            <a class="collapse-item" href="comunidad2/comunidad2.php">Comunidad 2</a>
           </div>
         </div>
       </li>

@@ -1,4 +1,4 @@
-<?php require_once "../poblacion/vistas1/parte_superior.php"?>
+<?php require_once "../comunidad1/vistas1/parte_superior.php"?>
 
 
     
@@ -114,4 +114,4 @@
 </body>
 </html>
 
-<?php require_once "../poblacion/vistas1/parte_inferior.php"?>
+<?php require_once "../comunidad1/vistas1/parte_inferior.php"?>
