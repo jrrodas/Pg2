@@ -53,7 +53,7 @@ if($_SESSION["s_usuario"] === null){
       <!-- Divider -->
       <hr class="sidebar-divider my-0">
 
-      <!-- Nav Item - Dashboard -->
+      <!-- Nav Item - el_moral -->
       <li class="nav-item active">
         <a class="nav-link" href="../index.php">
           <i class="fas fa-fw fa-tachometer-alt"></i>
