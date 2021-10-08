@@ -1,13 +1,12 @@
 <?php require_once "vistas/parte_superior.php"?>
-
 <!--INICIO del cont principal-->
 <div class="container" align="center">
-    <h1>Datamidh Morazán, El Progreso</h1>
-    
+<a href="" class="btn btn__nuevo" onclick="window.print()">Imprimir</a>
+   
     
     
 <?php
-    include_once 'comunidad1/conexion.php';
+    include_once 'autoridades/conexion.php';
 
     $sentencia_select=$con->prepare('SELECT *FROM autoridades_el_moral ORDER BY id DESC');
     $sentencia_select->execute();
@@ -42,7 +41,7 @@
     
 </head>
 <body>
-    
+<h1 aling: "center">Aldea El Pacayal</h1>
 </body>
 </html>
 <!--FIN del cont principal-->

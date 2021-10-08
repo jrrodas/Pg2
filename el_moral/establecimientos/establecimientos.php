@@ -1,4 +1,4 @@
-<?php require_once "../comunidad1/vistas1/parte_superior.php"?>
+<?php require_once "../autoridades/vistas1/parte_superior.php"?>
 
 
     
@@ -50,6 +50,7 @@
             value="<?php if(isset($buscar_text)) echo $buscar_text; ?>" class="input__text">
             <input type="submit" class="btn" name="btn_buscar3" value="Buscar">
             <a href="insert_est.php" class="btn btn__nuevo">Nuevo</a>
+            <a href="" class="btn btn__nuevo" onclick="window.print()">Imprimir</a>
         </form>
     </div>
      <div class="table-responsive">   
@@ -87,4 +88,4 @@
 </body>
 </html>
 
-<?php require_once "../comunidad1/vistas1/parte_inferior.php"?>
+<?php require_once "../autoridades/vistas1/parte_inferior.php"?>

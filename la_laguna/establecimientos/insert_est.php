@@ -1,7 +1,7 @@
-<?php require_once "../comunidad1/vistas1/parte_superior.php"?>
+<?php require_once "../autoridades/vistas1/parte_superior.php"?>
 
 <?php 
-	include_once '../comunidad1/conexion.php';
+	include_once '../establecimientos/conexion.php';
 	
 	if(isset($_POST['guardar'])){
 		$comercio=$_POST['comercio'];
@@ -71,4 +71,4 @@ if(!empty($comercio) && !empty($cantidad) && !empty($tamano) && !empty($disponib
 	</div>
 </body>
 </html>
-<?php require_once "../comunidad1/vistas1/parte_inferior.php"?>
+<?php require_once "../autoridades/vistas1/parte_inferior.php"?>

@@ -1,7 +1,7 @@
-<?php require_once "../comunidad1/vistas1/parte_superior.php"?>
+<?php require_once "../autoridades/vistas1/parte_superior.php"?>
 
 <?php 
-	include_once '../comunidad1/conexion.php';
+	include_once '../poblacion/conexion.php';
 	
 	if(isset($_POST['guardar'])){
 		$hombres=$_POST['hombres'];
@@ -69,4 +69,4 @@ if(!empty($hombres) && !empty($mujeres) && !empty($jovenes) && !empty($adultos) 
 	</div>
 </body>
 </html>
-<?php require_once "../comunidad1/vistas1/parte_inferior.php"?>
+<?php require_once "../autoridades/vistas1/parte_inferior.php"?>

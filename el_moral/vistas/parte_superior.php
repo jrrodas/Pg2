@@ -77,10 +77,13 @@ if($_SESSION["s_usuario"] === null){
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Listado de Comunidades:</h6>
-            <a class="collapse-item" href="comunidad1/comunidad1.php">Aldea El Moral</a>
-            <a class="collapse-item" href="../el_pacayal/comunidad1/comunidad1.php">Aldea El Pacayal</a>
-            <a class="collapse-item" href="../el_rodeo/comunidad1/comunidad1.php">Aldea El Rodeo</a>
-            <a class="collapse-item" href="../la_laguna/comunidad1/comunidad1.php">Aldea La Laguna</a>
+            <a class="collapse-item" href="autoridades/comunidad1.php">Aldea El Moral</a>
+            <a class="collapse-item" href="../el_pacayal/autoridades/comunidad1.php">Aldea El Pacayal</a>
+            <a class="collapse-item" href="../el_rodeo/autoridades/comunidad1.php">Aldea El Rodeo</a>
+            <a class="collapse-item" href="../la_laguna/autoridades/comunidad1.php">Aldea La Laguna</a>
+            <a class="collapse-item" href="../los_tablones/autoridades/comunidad1.php">Aldea Los Tablones</a>
+            <a class="collapse-item" href="../marajuma/autoridades/comunidad1.php">Aldea Marajuma</a>
+            <a class="collapse-item" href="../plan_carrizo/autoridades/comunidad1.php">Aldea Plan Carrizo</a>
            
           </div>
         </div>

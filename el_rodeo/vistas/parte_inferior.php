@@ -6,7 +6,9 @@
       <footer class="sticky-footer bg-white">
         <div class="container my-auto">
           <div class="copyright text-center my-auto">
-            <span>Copyright &copy; Your Website 2019</span>
+          <span>f.___________________________</span> <br>
+            <span>Direción Municipal de Planificacion</span><br>
+            <span>Municipalidad de Morazán, El Progreso</span>
           </div>
         </div>
       </footer>

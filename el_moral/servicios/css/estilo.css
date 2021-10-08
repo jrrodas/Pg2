@@ -29,7 +29,7 @@ h2{
     font-size: 20px;
     font-family: 'Aharoni', Aharoni;
     font-weight: bold;
-    color: #000000;
+    color: #9c1bd8;
 }
 
 .barra__buscador{
@@ -49,7 +49,7 @@ form .input__text{
     border: 1px solid #ccc;
     border-radius: 5px;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
-    color: #000000;
+    color: #9c1bd8;
     display: block;
     font-size: 14px;
     margin-bottom: 15px;
@@ -82,7 +82,7 @@ form .btn{
     color: #fff;
     display: block;
     font-size: 14px;
-    background: #000000;
+    background: #9c1bd8;
     margin-bottom: 15px;
     padding: 10px 20px;
     margin-right: 10px;
@@ -91,7 +91,7 @@ form .btn{
 }
 .btn__nuevo{
     float: right;
-    background: #000000 !important;
+    background: #9c1bd8 !important;
 }
 
 .btn__group{
@@ -101,10 +101,10 @@ form .btn{
     justify-content: flex-end;
 }
 .btn__primary{
-    background: #000000 !important;
+    background: #9c1bd8 !important;
 }
 .btn__danger{
-    background: #000000 !important;
+    background: #9c1bd8 !important;
 }
 
 /* table */
@@ -114,7 +114,7 @@ table{
 }
 
 table .head{
-    background: #000000;
+    background: #9c1bd8;
 }
 table .head td{
     color: #fff;
@@ -125,16 +125,16 @@ table .head td{
 }
 
 table tr td{
-    border:5px solid #000000;
+    border:5px solid #9c1bd8;
     padding: 3px;
     font-size: 14px;
-    color: #000000;
+    color: #9c1bd8;
 }
 
 .btn__update{
     display: inline-block;
     font-size: 14px;
-    background: #000000;
+    background: #9c1bd8;
     color: #fff;
     border-radius: 5px;
     padding: 5px 10px;
@@ -143,7 +143,7 @@ table tr td{
 .btn__delete{
     display: inline-block;
     font-size: 14px;
-    background: #000000;
+    background: #9c1bd8;
     color: #fff;
     border-radius: 5px;
     padding: 5px 10px;

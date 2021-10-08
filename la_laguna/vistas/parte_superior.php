@@ -77,7 +77,7 @@ if($_SESSION["s_usuario"] === null){
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Listado de Comunidades:</h6>
-            <a class="collapse-item" href="comunidad1/comunidad1.php">Regresa al Inicio</a>
+            <a class="collapse-item" href="../el_moral/index.php">Regresa al Inicio</a>
            
           </div>
         </div>

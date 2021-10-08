@@ -1,4 +1,4 @@
-<?php require_once "../comunidad1/vistas1/parte_superior.php"?>
+<?php require_once "../autoridades/vistas1/parte_superior.php"?>
 
 <?php
 	include_once '../servicios/conexion.php';
@@ -108,4 +108,4 @@
 	</div>
 </body>
 </html>
-<?php require_once "../comunidad1/vistas1/parte_inferior.php"?>
+<?php require_once "../autoridades/vistas1/parte_inferior.php"?>

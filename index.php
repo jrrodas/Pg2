@@ -20,8 +20,9 @@
       <div class="container-login">
         <div class="wrap-login">
             <form class="login-form validate-form" id="formLogin" action="" method="post">
-                <span class="login-form-title">Datamidh</span>
-                <span class="login-form-title">Morazán</span>
+                <span class="login-form-title">DataMIDH</span>
+                <h2 align="center">Morazán El Progreso</h2>
+               
                 
                 <div class="wrap-input100" data-validate = "Usuario incorrecto">
                     <input class="input100" type="text" id="usuario" name="usuario" placeholder="Usuario">
@@ -36,7 +37,7 @@
                 <div class="container-login-form-btn">
                     <div class="wrap-login-form-btn">
                         <div class="login-form-bgbtn"></div>
-                        <button type="submit" name="submit" class="login-form-btn">CONECTAR</button>
+                        <button type="submit" name="submit" class="login-form-btn">Acceso</button>
                     </div>
                 </div>
             </form>
