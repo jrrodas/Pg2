@@ -12,7 +12,7 @@
 		));
 		$resultado=$buscar_id->fetch();
 	}else{
-		header('Location: poblacion_el_moral.php');
+		header('Location: poblacion.php');
 	}
 
 

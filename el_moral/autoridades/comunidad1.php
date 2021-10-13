@@ -59,13 +59,13 @@
         <table id="tablaPersonas"  style="width:100%">
             <thead class="text-center">
              <tr class="head">
-                <td>nombres</td>
-                <td>cargo</td>
+                <td>Nombres</td>
+                <td>Cargo</td>
                 <td>Teléfono</td>
-                <td>direccion</td>
+                <td>Direccion</td>
                 <td>Correo</td>
                 <td>DPI</td>
-                <td>vigencia</td>
+                <td>Vigencia</td>
                 <td colspan="2">Acción</td>
             </tr>
             <?php foreach($resultado as $fila):?>

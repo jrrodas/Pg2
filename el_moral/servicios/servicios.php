@@ -29,7 +29,7 @@
     if(isset($_POST['btn_buscar3'])){
         $buscar_text=$_POST['buscar3'];
         $select_buscar=$con->prepare('
-            SELECT *FROM servicios_el_moral WHERE privado LIKE :campo;'
+            SELECT *FROM servicios_el_moral WHERE nombre LIKE :campo;'
         );
 
         $select_buscar->execute(array(
@@ -48,7 +48,7 @@
 
     <div class="barra__buscador">
         <form action="" class="formulario" method="post">
-            <input type="text" name="buscar3" placeholder="Buscar por Año" 
+            <input type="text" name="buscar3" placeholder="Buscar por Servicio" 
             value="<?php if(isset($buscar_text)) echo $buscar_text; ?>" class="input__text">
             <input type="submit" class="btn" name="btn_buscar3" value="Buscar">
             <a href="insert_ser.php" class="btn btn__nuevo">Nuevo</a>

@@ -6,9 +6,6 @@
    
     
     
-    
-    
-    
 <?php
     include_once 'autoridades/conexion.php';
 
@@ -45,7 +42,6 @@
     
 </head>
 <body>
-
 <h1 aling: "center">Aldea El Moral</h1>
 
 </body>

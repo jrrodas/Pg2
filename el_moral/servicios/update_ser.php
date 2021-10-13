@@ -72,26 +72,26 @@
 		<form action="" method="post">
 			 <div class="table-responsive"> 
 			<div class="form-group">
-				<h5>nombre</h5>
+				<h5>Nombre</h5>
 				<input type="text" name="nombre" value="<?php if($resultado) echo $resultado['nombre']; ?>" class="input__text">
-					<h5>Con Piso</h5>
+					<h5>Cobertura</h5>
 				<input type="text" name="cobertura" value="<?php if($resultado) echo $resultado['cobertura']; ?>" class="input__text">
 			</div>
 			<div class="form-group">
-					<h5>Sin Piso</h5>
+					<h5>Calidad</h5>
 				<input type="text" name="calidad" value="<?php if($resultado) echo $resultado['calidad']; ?>" class="input__text">
-					<h5>Block</h5>
+					<h5>Disponibilidad</h5>
 				<input type="text" name="disponibilidad" value="<?php if($resultado) echo $resultado['disponibilidad']; ?>" class="input__text">
 			</div>
 			<div class="form-group">
-					<h5>empleados</h5>
+					<h5>Empleados</h5>
 				<input type="text" name="empleados" value="<?php if($resultado) echo $resultado['empleados']; ?>" class="input__text">
-					<h5>publico</h5>
+					<h5>Publico</h5>
 				<input type="text" name="publico" value="<?php if($resultado) echo $resultado['publico']; ?>" class="input__text">
 				
 			</div>
 <div class="form-group" align="center">
-	<h5>Año</h5>
+	<h5>Privado</h5>
 			<input type="text" name="privado" value="<?php if($resultado) echo $resultado['privado']; ?>" class="input__text">
 
 			</div>

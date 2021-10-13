@@ -1,7 +1,7 @@
 <?php require_once "../autoridades/vistas1/parte_superior.php"?>
 
 <?php 
-	include_once '../autoridades/conexion.php';
+	include_once '../vivienda/conexion.php';
 	
 	if(isset($_POST['guardar'])){
 		$cantidad=$_POST['cantidad'];

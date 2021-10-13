@@ -27,7 +27,7 @@
     if(isset($_POST['btn_buscar3'])){
         $buscar_text=$_POST['buscar3'];
         $select_buscar=$con->prepare('
-            SELECT *FROM establecimientos_el_moral WHERE informal LIKE :campo;'
+            SELECT *FROM establecimiento_el_moral WHERE informal LIKE :campo;'
         );
 
         $select_buscar->execute(array(

@@ -72,24 +72,23 @@ if($_SESSION["s_usuario"] === null){
       <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
           <i class="fas fa-fw fa-cog"></i>
-          <span>Aldea El Moral</span>
+          <span>Caserío El Moral</span>
         </a>
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
-            <h6 class="collapse-header">Datos Estadisticos:</h6>
+            <h6 class="collapse-header">Listado de Comunidades:</h6>
             <a class="collapse-item" href="../autoridades/comunidad1.php">Autoridades</a>
             <a class="collapse-item" href="../poblacion/poblacion.php">Población</a>
             <a class="collapse-item" href="../vivienda/vivienda.php">Vivienda</a>
             <a class="collapse-item" href="../servicios/servicios.php">Servicios</a>
             <a class="collapse-item" href="../establecimientos/establecimientos.php">Establecimientos Comerciales</a>
-          
+           
           </div>
         </div>
       </li>
 
 
     
-
       <!-- Divider -->
       <hr class="sidebar-divider d-none d-md-block">
 
